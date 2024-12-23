@@ -1,0 +1,11 @@
+# Data
+- change from dummie only to 3 encoders
+(use the notebook from competition)
+#ML
+-  compare accurasy of the different encoding methods
+-   create logistical regression using the winning encoding method
+-   create the confusion matrix
+-   normalise the confusion matrix
+-   create confusion matrixes
+-   create KPI's
+-   F1/ROC - check it
