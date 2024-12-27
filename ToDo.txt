@@ -1,6 +1,8 @@
 # Data
 
 #ML
+-   Regularisation
+-   Cross validation
 -  compare accurasy of the different encoding methods - DONE
 -   create logistical regression using the winning encoding method - DONE
 -   create the confusion matrix
@@ -8,3 +10,4 @@
 -   create confusion matrixes
 -   create KPI's
 -   F1/ROC - check it
+
